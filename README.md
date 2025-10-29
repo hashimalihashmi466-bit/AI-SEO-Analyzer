@@ -1,38 +1,50 @@
 # 🧠 AI SEO Analyzer
 
-An **AI-powered SEO optimization system** that automates the analysis of website content, structure, and performance.  
-It leverages **Natural Language Processing (NLP)** and **machine learning models** to evaluate keyword relevance, readability, and on-page optimization, providing actionable insights for ranking improvement.
+An **AI-powered SEO optimization system** that analyzes website performance, structure, and content using **Natural Language Processing (NLP)** and **machine learning**.  
+It automatically evaluates keyword relevance, readability, and on-page optimization, providing detailed reports with actionable recommendations.
 
 ---
 
 ## 🚀 Key Features
-- Automated crawling and analysis of website pages  
-- AI-based keyword and readability scoring engine  
-- Visualization of SEO metrics with structured HTML reports  
-- Report generation for optimization insights and performance tracking  
-- Planned scalability enhancements: MongoDB integration, Redis caching, and asynchronous task queues  
+- 🔍 **Comprehensive Analysis:** Deep crawl of title tags, meta descriptions, headers, images, and links.  
+- 📊 **Performance Metrics:** Tracks page speed, Core Web Vitals, and other SEO indicators.  
+- 🤖 **AI Recommendations:** Provides intelligent suggestions for title, content, and structure improvements.  
+- 🧩 **Automated Reporting:** Generates structured and visual reports in PDF format.  
+- ⚙️ **Scalability Ready:** Supports caching, asynchronous analysis, and modular architecture.
 
 ---
 
 ## 🧩 Core Technologies
-- **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Python (Flask)  
+- **Frontend:** HTML, CSS, JavaScript  
 - **Database:** MySQL  
-- **AI Models:** NLP, Scikit-learn  
-- **Tools:** BeautifulSoup, Matplotlib  
+- **AI Tools:** NLP, Scikit-learn, BeautifulSoup  
+- **Visualization:** Matplotlib  
 
 ---
 
-## 📊 How It Works
-1. The system crawls and analyzes web pages for structure, content, and performance.  
-2. NLP models assess keyword density, readability, and semantic coherence.  
-3. Generates visual and structured reports with improvement suggestions.  
+## 📸 Screenshots
+
+### 🧭 Dashboard Overview
+![Dashboard](image_2025-10-29_191509300.png)
+
+### 📈 SEO Report Summary
+![SEO Summary](image_2025-10-29_191542335.png)
+
+### 📋 Sample Analysis Result
+![Analysis Result](image_2025-10-29_191605554.png)
 
 ---
 
-## 🧠 Role & Development
-Developed independently as part of an academic research initiative to explore **AI-based web analytics** and **SEO automation**.  
-Demonstrates strong skills in **data-driven full-stack development**, aligning with real-world SEO optimization workflows.
+## 📄 Sample Report
+You can view a sample output report here:  
+📄 [SEO Report (PDF)](seo-report%20(8).pdf)
+
+---
+
+## 🧠 Role & Objective
+Developed independently as part of an academic research initiative focused on **AI-based SEO automation and analytics**.  
+Demonstrates strong skills in **data-driven full-stack development** and **AI integration for web analysis**.
 
 ---
 
