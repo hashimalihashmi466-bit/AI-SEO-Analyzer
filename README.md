@@ -23,21 +23,46 @@ It automatically evaluates keyword relevance, readability, and on-page optimizat
 
 ---
 
+# 🧠 AI SEO Analyzer
+
+An **AI-powered SEO optimization system** that analyzes website performance, structure, and content using **Natural Language Processing (NLP)** and **machine learning**.  
+It automatically evaluates keyword relevance, readability, and on-page optimization, providing detailed reports with actionable recommendations.
+
+---
+
+## 🚀 Key Features
+- 🔍 **Comprehensive Analysis:** Deep crawl of title tags, meta descriptions, headers, images, and links.  
+- 📊 **Performance Metrics:** Tracks page speed, Core Web Vitals, and other SEO indicators.  
+- 🤖 **AI Recommendations:** Provides intelligent suggestions for title, content, and structure improvements.  
+- 🧩 **Automated Reporting:** Generates structured and visual reports in PDF format.  
+- ⚙️ **Scalability Ready:** Supports caching, asynchronous analysis, and modular architecture.
+
+---
+
+## 🧩 Core Technologies
+- **Backend:** Python (Flask)  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Database:** MySQL  
+- **AI Tools:** NLP, Scikit-learn, BeautifulSoup  
+- **Visualization:** Matplotlib  
+
+---
+
 ## 📸 Screenshots
 
-### 🧭 Dashboard Overview
-![Dashboard](image_2025-10-29_191509300.png)
+### 🧭 Interface Overview
+![Interface](image_2025-10-29_194445335.png)
 
-### 📈 SEO Report Summary
-![SEO Summary](image_2025-10-29_191542335.png)
+### 📈 SEO Analysis Results
+![SEO Results](image_2025-10-29_194618638.png)
 
-### 📋 Sample Analysis Result
-![Analysis Result](image_2025-10-29_191605554.png)
+### 📋 Detailed Report View
+![Report View](image_2025-10-29_194641619.png)
 
 ---
 
 ## 📄 Sample Report
-You can view a sample output report here:  
+You can view a sample generated PDF report here:  
 📄 [SEO Report (PDF)](seo-report%20(8).pdf)
 
 ---
